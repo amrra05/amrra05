@@ -111,11 +111,13 @@ A Figma-based interface design project focused on layout, usability, and visual 
 <div align="center">
 
 <a href="https://github.com/amrra05">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrra05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
 </a>
+
 <a href="https://github.com/amrra05">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrra05&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
+
 
 <img width="70%" src="https://streak-stats.demolab.com?user=amrra05&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" alt="GitHub contribution streak" />
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Amr Ramahi — Full Stack Developer</title>
+<title id="title">Amr Alramahi — Full Stack Developer</title>
 <desc id="desc">Cyberpunk neon banner with a futuristic grid, glowing cyan and violet lines.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -25,7 +25,7 @@
 <g fill="#00E5FF"><circle cx="210" cy="286" r="4"/><circle cx="990" cy="122" r="4"/><circle cx="570" cy="204" r="3"/></g>
 <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
   <text x="600" y="137" fill="#A78BFA" font-size="17" letter-spacing="7">HELLO WORLD / I'M</text>
-  <text x="600" y="205" fill="#FFFFFF" font-size="58" font-weight="700" letter-spacing="3">AMR RAMAHI</text>
+  <text x="600" y="205" fill="#FFFFFF" font-size="58" font-weight="700" letter-spacing="3">AMR ALRAMAHI</text>
   <text x="600" y="247" fill="#00E5FF" font-size="20" letter-spacing="4">FULL-STACK DEVELOPER</text>
   <text x="600" y="290" fill="#B9B2D0" font-size="14" letter-spacing="2">C#  /  ASP.NET CORE  /  REACT  /  SQL SERVER</text>
 </g>

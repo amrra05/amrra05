@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cyberpunk-banner.svg" width="100%" alt="Amr Ramahi — Full Stack Developer" />
+<img src="assets/cyberpunk-banner.svg" width="100%" alt="Amr Alramahi — Full Stack Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+with+ASP.NET+Core+%26+React;Designing+APIs%2C+interfaces%2C+and+experiences;Always+learning.+Always+shipping." alt="Typing animation" />
@@ -19,7 +19,7 @@
 <h2 align="center">「 ABOUT ME 」</h2>
 
 ```yaml
-name: Amr Ramahi
+name: Amr Alramahi
 username: amrra05
 role: Full-Stack Developer
 currently_building:

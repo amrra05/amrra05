@@ -1,0 +1,40 @@
+name: Generate contribution snake
+
+on:
+  # Regenerate the animation every day.
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+  # Regenerate after changes to the default branch.
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: amrra05
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
